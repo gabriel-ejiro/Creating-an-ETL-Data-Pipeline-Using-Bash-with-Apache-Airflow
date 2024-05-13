@@ -1,4 +1,5 @@
-#!/bin/bash
+!/bin/bash
+
 # download data using 'wget' command
 
 wget -P /home/project/airflow/dags https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Final%20Assignment/tolldata.tgz
