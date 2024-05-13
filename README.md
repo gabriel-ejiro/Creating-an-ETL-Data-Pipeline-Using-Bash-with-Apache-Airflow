@@ -1,1 +1,1 @@
-# Creating-an-ETL-Data-Pipeline-Using-Bash-with-Apache-Airflow
+In this project I will be cosplaying as a data engineer at a data analytics consulting company. I have been assigned a project aimed to de-congest national airways by analyzing the road traffic data from different toll plazas. Each highway is operated by a different toll operator with a different IT setup that uses different file formats. My job is to collect data available in different formats and consolidate it into a single file.
