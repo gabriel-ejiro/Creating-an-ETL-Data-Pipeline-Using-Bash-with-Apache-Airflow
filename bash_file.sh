@@ -1,4 +1,7 @@
 #!/bin/bash
+# download data using 'wget' command
+
+wget -P /home/project/airflow/dags https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Final%20Assignment/tolldata.tgz
 
 # Command to unzip the downloaded_data.tgz file
 tar -zxvf /home/project/airflow/dags/tolldata.tgz -C /home/project/airflow/dags/
