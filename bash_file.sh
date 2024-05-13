@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # download data using 'wget' command
 
